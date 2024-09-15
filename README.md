@@ -7,6 +7,8 @@ Learn more about me from my [portfolio website](https://www.levonarmen.com). ðŸ˜
 <!-- 
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bobshoaun&exclude_repo=The-CSC207-Calendar&hide=shaderlab,hlsl&layout=compact&langs_count=10&theme=tokyonight)
 -->
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mino9421&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mino's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mino9421&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mino9421&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs]([https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mino9421&theme=tokyonight&layout=compact&langs_count=10](https://github-readme-stats.vercel.app/api/?username=mino9421))](https://github.com/anuraghazra/github-readme-stats)
