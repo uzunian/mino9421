@@ -118,11 +118,11 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
   </details> -->
 
   ###### Editors, IDEs & Tools:
-    <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?perline=10&i=vscode,vim,neovim,powershell,androidstudio,codepen,figma,webflow" />
-      </a>
-    </p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=vscode,vim,neovim,powershell,androidstudio,codepen,figma,webflow" />
+    </a>
+  </p>
   <!-- <details>
   </details> -->
 </details>
