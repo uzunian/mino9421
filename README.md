@@ -1,4 +1,10 @@
-## Hi there 👋
+<div align="center">
+    <h1>
+        Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand" width="35"/>  
+        <br>
+     I'm Mino, that's my alias!
+    </h1>
+</div>
 
 ```md
 I ❤️ creating extraordinary web applications and experiences, I enjoy both frontend and backend web development.
