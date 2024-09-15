@@ -31,9 +31,6 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=sports-league-ui\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 # Skill
-<details>
-
-  ###### Operating Systems & Platforms:
   <details>
     <p>
       <a href="https://skillicons.dev">
@@ -77,6 +74,9 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
       </a>
     </p>
   </details>
+<details>
+
+  ###### Operating Systems & Platforms:
 
   ###### Version Control & Collaboration Tools:
   <details>
