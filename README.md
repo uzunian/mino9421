@@ -88,21 +88,18 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
     <img src="https://skillicons.dev/icons?perline=10&i=vitest,jest,cypress,selenium,postman" />
   </a>
 </p>
-
 ###### Game Development & Engines:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=10&i=godot,unity,unreal,blender,opencv" />
   </a>
 </p>
-
 ###### Editors, IDEs & Tools:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=10&i=vscode,vim,neovim,powershell,androidstudio,codepen,figma,webflow" />
   </a>
 </p>
-
 ###### Other Tools/Skills:
 <p>
   <a href="https://skillicons.dev">
