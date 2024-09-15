@@ -72,13 +72,13 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
   <summary>Click To Expand Other Tools:</summary>
 
   ###### Databases & ORMs:
-  <details>
+  <!-- <details>
+  </details> -->
     <p>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?perline=10&i=mysql,postgres,mongodb,redis,sqlite,cassandra,dynamodb,graphql,apollo,prisma" />
       </a>
     </p>
-  </details>
 
 
   ###### Version Control & Collaboration Tools:
