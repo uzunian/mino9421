@@ -43,28 +43,28 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
 ###### Programming Languages:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=javascript,typescript,nodejs,deno,python,java,go,php,dart,ruby,rust,swift,bash,c,cpp,cs" />
+    <img src="https://skillicons.dev/icons?perline=10&i=javascript,typescript,nodejs,deno,python,java,go,php,rust,bash,swift,c,cpp,cs" />
   </a>
 </p>
 
 ###### Frontend Frameworks & Libraries:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=vue,react,nextjs,nuxtjs,remix,astro,svelte,angular,flutter,pinia,redux,vuetify,pug,tailwindcss,bootstrap,materialui,sass" />
+    <img src="https://skillicons.dev/icons?perline=10&i=vue,nuxtjs,react,nextjs,svelte,angular,remix,astro,pinia,redux,vuetify,pug,tailwindcss,bootstrap,materialui,sass" />
   </a>
 </p>
 
 ###### Backend Frameworks & Tools:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=express,nestjs,fastapi,flask,django,laravel,rails,actix,rocket,spring,prisma,docker,kubernetes,ansible,jenkins,terraform,nginx" />
+    <img src="https://skillicons.dev/icons?perline=10&i=express,nestjs,fastapi,flask,django,laravel,rails,actix,rocket,spring" />
   </a>
 </p>
 
 ###### Databases & ORMs:
 <p>
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?perline=10&i=mysql,postgres,mongodb,cassandra,redis,sqlite,dynamodb,graphql,apollo,prisma" />
+     <img src="https://skillicons.dev/icons?perline=10&i=mysql,postgres,mongodb,redis,sqlite,cassandra,dynamodb,graphql,apollo,prisma" />
   </a>
 </p>
 
@@ -99,7 +99,7 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
 ###### Editors, IDEs & Tools:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=vscode,neovim,androidstudio,vim,powershell,codepen,figma,webflow" />
+    <img src="https://skillicons.dev/icons?perline=10&i=vscode,vim,neovim,powershell,androidstudio,codepen,figma,webflow" />
   </a>
 </p>
 
