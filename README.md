@@ -21,7 +21,7 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
 <hr>
 
 <a href="https://github.com/mino9421">
-  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mino9421&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&&card_width=320" />
+  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mino9421&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&&card_width=320" />
 </a>
 <a href="https://github.com/mino9421">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mino9421&rank_icon=github&theme=radical" />
@@ -37,7 +37,7 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
 <hr>
 
 ###### Operating Systems & Platforms:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=10&i=debian,windows,ubuntu,mint,redhat,apple,aws,azure,gcp,firebase" />
   </a>
