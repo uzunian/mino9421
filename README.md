@@ -33,9 +33,6 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=sports-league-ui\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 ## Skill
-
-<hr>
-
 ###### Operating Systems & Platforms:
 <p>
   <a href="https://skillicons.dev">
