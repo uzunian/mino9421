@@ -33,11 +33,11 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 # Skill
   <!-- <details>
   </details> -->
-    <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?perline=10&i=windows,ubuntu,redhat,debian,apple,aws,azure,gcp,firebase,supabase" />
-      </a>
-    </p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=windows,ubuntu,redhat,debian,apple,aws,azure,gcp,firebase,supabase" />
+    </a>
+  </p>
 
   ###### Programming Languages:
   <!-- <details>
@@ -51,20 +51,21 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
   ###### Frontend Frameworks & Libraries:
   <!-- <details>
   </details> -->
-    <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?perline=10&i=vue,nuxtjs,react,nextjs,svelte,angular,remix,astro,pinia,redux,vuetify,pug,tailwindcss,bootstrap,materialui,sass" />
-      </a>
-    </p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=vue,nuxtjs,react,nextjs,svelte,angular,remix,astro,pinia,redux,vuetify,pug,tailwindcss,bootstrap,materialui,sass" />
+    </a>
+  </p>
 
   ###### Backend Frameworks & Tools:
   <!-- <details>
   </details> -->
-    <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?perline=10&i=express,nestjs,fastapi,flask,django,laravel,rails,actix,rocket,spring" />
-      </a>
-    </p>
+
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=express,nestjs,fastapi,flask,django,laravel,rails,actix,rocket,spring" />
+    </a>
+  </p>
 
   ###### Databases & ORMs:
   <details>
