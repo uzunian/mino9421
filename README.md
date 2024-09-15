@@ -13,7 +13,7 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
 
 - 💬 Ask me about anything [here](https://github.com/mino9421/mino9421/issues)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mino9421">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mino9421&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
