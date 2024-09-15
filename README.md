@@ -66,6 +66,7 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
     </a>
   </p>
 </details>
+
 ###### Databases & ORMs:
 <p>
   <a href="https://skillicons.dev">
@@ -74,14 +75,16 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 </p>
 <details>
 </details>
+
 ###### Version Control & Collaboration Tools:
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=git,github,gitlab,bitbucket" />
-  </a>
-</p>
 <details>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=git,github,gitlab,bitbucket" />
+    </a>
+  </p>
 </details>
+
 ###### DevOps, Automation & Cloud Services:
 <p>
   <a href="https://skillicons.dev">
@@ -90,12 +93,14 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 </p>
 <details>
 </details>
+
 ###### Testing & QA:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=10&i=vitest,jest,cypress,selenium,postman" />
   </a>
 </p>
+
 ###### Game Development & Engines:
 <details>
   <p>
@@ -104,6 +109,7 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
     </a>
   </p>
 </details>
+
 ###### Editors, IDEs & Tools:
 <details>
   <p>
