@@ -68,12 +68,12 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 </details>
 
 ###### Databases & ORMs:
-<p>
-  <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?perline=10&i=mysql,postgres,mongodb,redis,sqlite,cassandra,dynamodb,graphql,apollo,prisma" />
-  </a>
-</p>
 <details>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=mysql,postgres,mongodb,redis,sqlite,cassandra,dynamodb,graphql,apollo,prisma" />
+    </a>
+  </p>
 </details>
 
 ###### Version Control & Collaboration Tools:
@@ -86,20 +86,22 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 </details>
 
 ###### DevOps, Automation & Cloud Services:
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=docker,kubernetes,ansible,jenkins,terraform,nginx,vercel,netlify" />
-  </a>
-</p>
 <details>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=docker,kubernetes,ansible,jenkins,terraform,nginx,vercel,netlify" />
+    </a>
+  </p>
 </details>
 
 ###### Testing & QA:
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=vitest,jest,cypress,selenium,postman" />
-  </a>
-</p>
+<details>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=vitest,jest,cypress,selenium,postman" />
+    </a>
+  </p>
+</details>
 
 ###### Game Development & Engines:
 <details>
