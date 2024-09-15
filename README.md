@@ -36,7 +36,7 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
 ###### Operating Systems & Platforms:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=windows,ubuntu,redhat,debian,apple,aws,azure,gcp,firebase" />
+    <img src="https://skillicons.dev/icons?perline=10&i=windows,ubuntu,redhat,debian,apple,aws,azure,gcp,firebase,supabase" />
   </a>
 </p>
 
