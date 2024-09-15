@@ -33,6 +33,7 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 # Skill
   <!-- <details>
   </details> -->
+  ###### Operating Systems & Platforms:
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?perline=10&i=windows,ubuntu,redhat,debian,apple,aws,azure,gcp,firebase,supabase" />
@@ -67,6 +68,8 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
     </a>
   </p>
 
+<details>
+
   ###### Databases & ORMs:
   <details>
     <p>
@@ -75,9 +78,7 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
       </a>
     </p>
   </details>
-<details>
 
-  ###### Operating Systems & Platforms:
 
   ###### Version Control & Collaboration Tools:
   <details>
