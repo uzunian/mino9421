@@ -91,29 +91,29 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
   </details> -->
 
   ###### DevOps, Automation & Cloud Services:
-    <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?perline=10&i=docker,kubernetes,ansible,jenkins,terraform,nginx,vercel,netlify" />
-      </a>
-    </p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=docker,kubernetes,ansible,jenkins,terraform,nginx,vercel,netlify" />
+    </a>
+  </p>
   <!-- <details>
   </details> -->
 
   ###### Testing & QA:
-    <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?perline=10&i=vitest,jest,cypress,selenium,postman" />
-      </a>
-    </p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=vitest,jest,cypress,selenium,postman" />
+    </a>
+  </p>
   <!-- <details>
   </details> -->
 
   ###### Game Development & Engines:
-    <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?perline=10&i=godot,unity,unreal,blender,opencv" />
-      </a>
-    </p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=godot,unity,unreal,blender,opencv" />
+    </a>
+  </p>
   <!-- <details>
   </details> -->
 
