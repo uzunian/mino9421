@@ -20,6 +20,7 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mino9421&rank_icon=github&theme=radical" />
 </a>
 
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mino9421)
 <!--
 **mino9421/mino9421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
