@@ -20,8 +20,8 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mino9421&rank_icon=github&theme=radical" />
 </a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mino9421)](https://github.com/mino9421/github-readme-stats)
-
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=deez-book\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=sports-league-ui\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 
 <!--
