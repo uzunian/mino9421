@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Nickname+is+Mino!;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
 </h1>
 
-<hr>
-
 ```md
 # 💭About me
 
