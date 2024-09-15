@@ -7,7 +7,7 @@ Learn more about me from my [portfolio website](https://www.levonarmen.com). �
 <!-- 
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bobshoaun&exclude_repo=The-CSC207-Calendar&hide=shaderlab,hlsl&layout=compact&langs_count=10&theme=tokyonight)
 -->
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mino9421&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mino9421&theme=tokyonightlayout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mino9421/mino9421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
