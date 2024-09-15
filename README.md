@@ -69,7 +69,8 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
   </p>
 
 <details>
-  <summary>Other Tools:</summary>
+  <summary>Click To Expand Other Tools:</summary>
+
   ###### Databases & ORMs:
   <details>
     <p>
@@ -81,40 +82,40 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 
 
   ###### Version Control & Collaboration Tools:
-  <details>
-    <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?perline=10&i=git,github,gitlab,bitbucket" />
-      </a>
-    </p>
-  </details>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=git,github,gitlab,bitbucket" />
+    </a>
+  </p>
+  <!-- <details>
+  </details> -->
 
   ###### DevOps, Automation & Cloud Services:
-  <details>
     <p>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?perline=10&i=docker,kubernetes,ansible,jenkins,terraform,nginx,vercel,netlify" />
       </a>
     </p>
-  </details>
+  <!-- <details>
+  </details> -->
 
   ###### Testing & QA:
-  <details>
     <p>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?perline=10&i=vitest,jest,cypress,selenium,postman" />
       </a>
     </p>
-  </details>
+  <!-- <details>
+  </details> -->
 
   ###### Game Development & Engines:
-  <details>
     <p>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?perline=10&i=godot,unity,unreal,blender,opencv" />
       </a>
     </p>
-  </details>
+  <!-- <details>
+  </details> -->
 
   ###### Editors, IDEs & Tools:
   <details>
