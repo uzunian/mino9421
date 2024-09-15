@@ -1,15 +1,5 @@
-<div align="center">
-    <h1>
-        Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand" width="35"/>  
-        <br>
-     I'm Mino!
-    </h1>
-</div>
-
-<hr>
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Mino+is+my+alias.;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Nickname+is+Mino.;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
 </h1>
 
 <hr>
