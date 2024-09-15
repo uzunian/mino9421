@@ -44,70 +44,70 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
 </p>
 
 ###### Programming Languages:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=10&i=javascript,typescript,nodejs,deno,python,java,go,php,dart,ruby,rust,swift,bash,c,cpp,cs" />
   </a>
 </p>
 
 ###### Frontend Frameworks & Libraries:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=10&i=vue,react,nextjs,nuxtjs,remix,astro,svelte,angular,flutter,pinia,redux,vuetify,pug,tailwindcss,bootstrap,materialui,sass" />
   </a>
 </p>
 
 ###### Backend Frameworks & Tools:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=10&i=express,nestjs,fastapi,flask,django,laravel,rails,actix,rocket,spring,prisma,docker,kubernetes,ansible,jenkins,terraform,nginx" />
   </a>
 </p>
 
 ###### Databases & ORMs:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?perline=10&i=mysql,postgres,mongodb,cassandra,redis,sqlite,dynamodb,graphql,apollo,prisma" />
   </a>
 </p>
 
 ###### Version Control & Collaboration Tools:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=10&i=git,github,gitlab,bitbucket" />
   </a>
 </p>
 
 ###### DevOps, Automation & Cloud Services:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=10&i=docker,kubernetes,ansible,jenkins,terraform,nginx,vercel,netlify" />
   </a>
 </p>
 
 ###### Testing & QA:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=10&i=vitest,jest,cypress,selenium,postman" />
   </a>
 </p>
 
 ###### Game Development & Engines:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=10&i=godot,unity,unreal,blender,opencv" />
   </a>
 </p>
 
 ###### Editors, IDEs & Tools:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=10&i=vscode,neovim,androidstudio,vim,powershell,codepen,figma,webflow" />
   </a>
 </p>
 
 ###### Other Tools/Skills:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=10&i=elastic,kafka,rabbitmq,cmake,webassembly,yarn,npm,bun,tensorflow,pytorch" />
   </a>
