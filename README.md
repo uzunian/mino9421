@@ -31,40 +31,40 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=sports-league-ui\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 # Skill
-  <details>
+  <!-- <details>
+  </details> -->
     <p>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?perline=10&i=windows,ubuntu,redhat,debian,apple,aws,azure,gcp,firebase,supabase" />
       </a>
     </p>
-  </details>
 
   ###### Programming Languages:
-  <details>
+  <!-- <details>
+  </details> -->
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?perline=10&i=javascript,typescript,nodejs,deno,python,java,go,php,rust,bash,swift,c,cpp,cs" />
     </a>
   </p>
-  </details>
 
   ###### Frontend Frameworks & Libraries:
-  <details>
+  <!-- <details>
+  </details> -->
     <p>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?perline=10&i=vue,nuxtjs,react,nextjs,svelte,angular,remix,astro,pinia,redux,vuetify,pug,tailwindcss,bootstrap,materialui,sass" />
       </a>
     </p>
-  </details>
 
   ###### Backend Frameworks & Tools:
-  <details>
+  <!-- <details>
+  </details> -->
     <p>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?perline=10&i=express,nestjs,fastapi,flask,django,laravel,rails,actix,rocket,spring" />
       </a>
     </p>
-  </details>
 
   ###### Databases & ORMs:
   <details>
