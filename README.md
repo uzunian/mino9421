@@ -15,7 +15,7 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 
 - ❤️ I enjoy working with all types of frameworks, and pushing the limits
 ```
-- 💬 Ask me about anything[here](https://github.com/mino9421/mino9421/issues)
+- 💬 Ask me about anything [here](https://github.com/mino9421/mino9421/issues)
 
 <hr>
 
