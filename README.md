@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-**About me**
 ```md
-I ❤️ creating extraordinary web experiences, I enjoy both frontend and backend web development.
+I ❤️ creating extraordinary web applications and experiences, I enjoy both frontend and backend web development.
 Learn more about me from my [portfolio website](https://levonarmen.com). 😊
+
+# 💭About me
 
 - 💼 Senior FullStack Engineer
 
