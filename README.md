@@ -40,6 +40,25 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
 <img src="https://skillicons.dev/icons?perline=10&i=debian,windows,ubuntu,mint,redhat,apple,aws,azure,gcp,firebase,git,github,gitlab,bitbucket,linux,javascript,typescript,nodejs,deno,python,java,go,php,dart,ruby,rust,swift,bash,c,cpp,cs,mysql,postgres,mongodb,cassandra,redis,sqlite,dynamodb,graphql,apollo,prisma,docker,kubernetes,ansible,jenkins,terraform,nginx,express,nestjs,fastapi,flask,django,laravel,rails,actix,rocket,spring,tailwindcss,bootstrap,materialui,sass,vue,react,nextjs,nuxtjs,remix,astro,svelte,angular,flutter,pinia,redux,vuetify,pug,vitest,jest,cypress,selenium,postman,figma,codepen,devto,discord,webflow,blender,godot,unity,unreal,opencv,elasticsearch,kafka,rabbitmq,cmake,vscode,neovim,androidstudio,vim,powershell,webassembly,vercel,netlify,vite,rollupjs,webpack,npm,yarn,bun,tensorflow,pytorch" />
   </a>
 </p>
+
+<hr>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?perline=10&i=debian,windows,ubuntu,mint,redhat,apple,aws,azure,gcp,firebase" />
+    <img src="https://skillicons.dev/icons?perline=10&i=javascript,typescript,nodejs,deno,python,java,go,php,dart,ruby,rust,swift,bash,c,cpp,cs" />
+    <img src="https://skillicons.dev/icons?perline=10&i=vue,react,nextjs,nuxtjs,remix,astro,svelte,angular,flutter,pinia,redux,vuetify,pug,tailwindcss,bootstrap,materialui,sass" />
+    <img src="https://skillicons.dev/icons?perline=10&i=express,nestjs,fastapi,flask,django,laravel,rails,actix,rocket,spring,prisma,docker,kubernetes,ansible,jenkins,terraform,nginx" />
+    <img src="https://skillicons.dev/icons?perline=10&i=mysql,postgres,mongodb,cassandra,redis,sqlite,dynamodb,graphql,apollo,prisma" />
+    <img src="https://skillicons.dev/icons?perline=10&i=git,github,gitlab,bitbucket" />
+    <img src="https://skillicons.dev/icons?perline=10&i=docker,kubernetes,ansible,jenkins,terraform,nginx,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?perline=10&i=vitest,jest,cypress,selenium,postman" />
+    <img src="https://skillicons.dev/icons?perline=10&i=godot,unity,unreal,blender,opencv" />
+    <img src="https://skillicons.dev/icons?perline=10&i=vscode,neovim,androidstudio,vim,powershell,codepen,figma,webflow" />
+    <img src="https://skillicons.dev/icons?perline=10&i=elastic,kafka,rabbitmq,cmake,webassembly,yarn,npm,bun,tensorflow,pytorch" />
+  </a>
+</p>
+
 <!--
 **mino9421/mino9421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
