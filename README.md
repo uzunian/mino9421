@@ -69,7 +69,7 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
   </p>
 
 <details>
-
+  <summary>Other Tools:</summary>
   ###### Databases & ORMs:
   <details>
     <p>
