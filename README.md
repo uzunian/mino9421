@@ -27,6 +27,9 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=deez-book\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=sports-league-ui\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=mino9421" alt="mino9421" />
+</p>
 <!--
 **mino9421/mino9421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
