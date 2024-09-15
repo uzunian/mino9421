@@ -17,7 +17,7 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mino9421&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&&card_width=320" />
 </a>
 <a href="https://github.com/mino9421">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mino9421&rank_icon=percentile" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mino9421&rank_icon=github" />
 </a>
 
 <!--
