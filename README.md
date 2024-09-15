@@ -2,11 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Nickname+is+Mino!;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
 </h1>
 
+I ❤️ creating extraordinary web applications and experiences, I enjoy both frontend and backend web development.
+Learn more about me from my [portfolio website](https://armenlevon.com) 😊
+
 ```md
 # 💭About me
 
-I ❤️ creating extraordinary web applications and experiences, I enjoy both frontend and backend web development.
-Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 
 - 💼 Senior FullStack Engineer
 
