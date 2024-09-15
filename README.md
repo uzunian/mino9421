@@ -32,74 +32,86 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 
 # Skill
 ###### Operating Systems & Platforms:
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=windows,ubuntu,redhat,debian,apple,aws,azure,gcp,firebase,supabase" />
-  </a>
-</p>
+<details>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=windows,ubuntu,redhat,debian,apple,aws,azure,gcp,firebase,supabase" />
+    </a>
+  </p>
+</details>
 
 ###### Programming Languages:
+<details>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=10&i=javascript,typescript,nodejs,deno,python,java,go,php,rust,bash,swift,c,cpp,cs" />
   </a>
 </p>
+</details>
 
 ###### Frontend Frameworks & Libraries:
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=vue,nuxtjs,react,nextjs,svelte,angular,remix,astro,pinia,redux,vuetify,pug,tailwindcss,bootstrap,materialui,sass" />
-  </a>
-</p>
+<details>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=vue,nuxtjs,react,nextjs,svelte,angular,remix,astro,pinia,redux,vuetify,pug,tailwindcss,bootstrap,materialui,sass" />
+    </a>
+  </p>
+</details>
 
 ###### Backend Frameworks & Tools:
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=express,nestjs,fastapi,flask,django,laravel,rails,actix,rocket,spring" />
-  </a>
-</p>
-
+<details>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=express,nestjs,fastapi,flask,django,laravel,rails,actix,rocket,spring" />
+    </a>
+  </p>
+</details>
 ###### Databases & ORMs:
 <p>
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?perline=10&i=mysql,postgres,mongodb,redis,sqlite,cassandra,dynamodb,graphql,apollo,prisma" />
   </a>
 </p>
-
+<details>
+</details>
 ###### Version Control & Collaboration Tools:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=10&i=git,github,gitlab,bitbucket" />
   </a>
 </p>
-
+<details>
+</details>
 ###### DevOps, Automation & Cloud Services:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=10&i=docker,kubernetes,ansible,jenkins,terraform,nginx,vercel,netlify" />
   </a>
 </p>
-
+<details>
+</details>
 ###### Testing & QA:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=10&i=vitest,jest,cypress,selenium,postman" />
   </a>
 </p>
-
 ###### Game Development & Engines:
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=godot,unity,unreal,blender,opencv" />
-  </a>
-</p>
-
+<details>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=godot,unity,unreal,blender,opencv" />
+    </a>
+  </p>
+</details>
 ###### Editors, IDEs & Tools:
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=vscode,vim,neovim,powershell,androidstudio,codepen,figma,webflow" />
-  </a>
-</p>
+<details>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=vscode,vim,neovim,powershell,androidstudio,codepen,figma,webflow" />
+    </a>
+  </p>
+</details>
 
 <!-- ###### Other Tools/Skills:
 <p>
