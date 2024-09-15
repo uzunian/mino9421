@@ -5,7 +5,7 @@
 <hr>
 
 I ❤️ creating extraordinary web applications and experiences, I enjoy both frontend and backend web development.
-Learn more about me from my [portfolio website](https://armenlevon.com) 😊
+Learn more about me from my <a href="https://armenlevon.com" target="_blank">portfolio website</a> 😊
 ```md
 
 # 💭About me
