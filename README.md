@@ -37,7 +37,7 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=debian,windows,ubuntu,git,github,javascript,css3,tailwindcss,materialui,chakraui,redux,vite,nodejs,express,python,fastapi,go,php,laravel,java,dart,flutter,mysql,postgres,mongodb,firebase,postman,figma" />
+    <img src="https://skillicons.dev/icons?perline=10&i=debian,windows,ubuntu,mint,redhat,apple,aws,azure,gcp,firebase,git,github,gitlab,bitbucket,linux,javascript,typescript,nodejs,deno,python,py,java,go,php,dart,ruby,rust,swift,bash,c,cpp,cs,mysql,postgres,mongodb,cassandra,redis,sqlite,dynamodb,graphql,apollo,prisma,docker,kubernetes,ansible,jenkins,terraform,nginx,express,nestjs,fastapi,flask,django,laravel,rails,actix,rocket,spring,tailwindcss,bootstrap,materialui,chakraui,sass,vue,react,nextjs,nuxtjs,remix,astro,svelte,angular,flutter,pinia,redux,vuetify,pug,vitest,jest,cypress,pytest,selenium,postman,figma,codepen,devto,discord,webflow,blender,godot,unity,unreal,opencv,elastic,kafka,redis,rabbitmq,cmake,vscode,neovim,androidstudio,vim,powershell,webassembly,vercel,netlify,vite,rollupjs,webpack,npm,yarn,bun,opencv,sklearn,tensorflow,pytorch,terraform" />
   </a>
 </p>
 <!--
