@@ -13,7 +13,7 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
 
 - 💬 Ask me about anything [here](https://github.com/mino9421/mino9421/issues)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mino9421&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mino9421&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" /></a>
 
 [![Mino's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mino9421)](https://github.com/anuraghazra/github-readme-stats)
 
