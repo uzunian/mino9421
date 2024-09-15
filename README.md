@@ -7,7 +7,7 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
 
 - 💼 Senior FullStack Engineer
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 📈 Built Sports League, Deez (social media emoji posting) and Poker Game (browser based Ultimate Texas Hold'e)
 
 - ❤️ I enjoy working with all types of frameworks, and pushing the limits
 
