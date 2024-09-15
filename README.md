@@ -45,6 +45,15 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
+
+## Skill
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?perline=10&i=debian,windows,ubuntu,git,github,javascript,nodejs,express,python,fastapi,go,php,laravel,java,dart,flutter,mysql,postgres,mongodb,firebase,postman,figma" />
+  </a>
+</p>
 <!--
 **mino9421/mino9421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
