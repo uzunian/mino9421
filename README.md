@@ -109,7 +109,7 @@ Learn more about me from my [portfolio website](https://levonarmen.com). 😊
 ###### Other Tools/Skills:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=elastic,kafka,rabbitmq,cmake,webassembly,yarn,npm,bun,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?perline=10&i=elasticsearch,kafka,rabbitmq,cmake,webassembly,yarn,npm,bun,tensorflow,pytorch" />
   </a>
 </p>
 
