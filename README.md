@@ -14,6 +14,7 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=deez-book\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=sports-league-ui\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=poker-vue\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 
 - ❤️ I enjoy working with all types of frameworks, and pushing the limits
