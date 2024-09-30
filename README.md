@@ -5,7 +5,7 @@
 I ❤️ creating extraordinary web applications and experiences, I enjoy both frontend and backend web development.
 Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 
-```md
+md
 # 💭About me
 
 
@@ -14,7 +14,7 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 - 📈 Built Sports League, Deez (social media emoji posting) and Poker Game (browser based Ultimate Texas Hold'e)
 
 - ❤️ I enjoy working with all types of frameworks, and pushing the limits
-```
+
 - 💬 Ask me about anything [here](https://github.com/mino9421/mino9421/issues)
 
 <hr>
