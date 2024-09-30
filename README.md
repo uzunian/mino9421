@@ -8,7 +8,7 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 
 # 💭About me
 
-- 💼 Senior FullStack Engineer
+- 💼 Senior FullStack Engineer & Data Scientist
 
 - 📈 Built Sports League, Deez (social media emoji posting) and Poker Game (browser based Ultimate Texas Hold'e)
 
