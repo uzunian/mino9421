@@ -19,18 +19,6 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 
 <hr>
 
-<a href="https://github.com/mino9421">
-  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mino9421&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&&card_width=320" />
-</a>
-<a href="https://github.com/mino9421">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mino9421&rank_icon=github&theme=radical" />
-</a>
-
-<hr>
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=deez-book\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=sports-league-ui\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-
 # Skill
   ###### Programming Languages:
   <p>
@@ -119,6 +107,22 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
   <!-- <details>
   </details> -->
 </details>
+
+<hr>
+
+<a href="https://github.com/mino9421">
+  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mino9421&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&&card_width=320" />
+</a>
+<a href="https://github.com/mino9421">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mino9421&rank_icon=github&theme=radical" />
+</a>
+
+<hr>
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=deez-book\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=sports-league-ui\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+
+
 
 <!-- ###### Other Tools/Skills:
 <p>
