@@ -5,9 +5,8 @@
 I ❤️ creating extraordinary web applications and experiences, I enjoy both frontend and backend web development.
 Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 
-md
-# 💭About me
 
+# 💭About me
 
 - 💼 Senior FullStack Engineer
 
