@@ -32,18 +32,7 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=sports-league-ui\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 # Skill
-  <!-- <details>
-  </details> -->
-  ###### Operating Systems & Platforms:
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?perline=10&i=windows,ubuntu,redhat,debian,apple,aws,azure,gcp,firebase,supabase" />
-    </a>
-  </p>
-
   ###### Programming Languages:
-  <!-- <details>
-  </details> -->
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?perline=10&i=javascript,typescript,nodejs,deno,python,java,go,php,rust,bash,swift,c,cpp,cs" />
@@ -51,8 +40,6 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
   </p>
 
   ###### Frontend Frameworks & Libraries:
-  <!-- <details>
-  </details> -->
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?perline=10&i=vue,nuxtjs,react,nextjs,svelte,angular,remix,astro,pinia,redux,vuetify,pug,tailwindcss,bootstrap,materialui,sass" />
@@ -60,8 +47,6 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
   </p>
 
   ###### Backend Frameworks & Tools:
-  <!-- <details>
-  </details> -->
 
   <p>
     <a href="https://skillicons.dev">
@@ -71,6 +56,13 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 
 <details>
   <summary>Click To Expand Other Tools:</summary>
+
+  ###### Operating Systems & Platforms:
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=10&i=windows,ubuntu,redhat,debian,apple,aws,azure,gcp,firebase,supabase" />
+    </a>
+  </p>
 
   ###### Databases & ORMs:
   <!-- <details>
