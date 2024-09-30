@@ -8,9 +8,13 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 
 # 💭About me
 
-- 💼 Senior FullStack Engineer & Data Scientist
+- 💼 Senior Full Stack Engineer & Data Scientist
 
 - 📈 Built AI Powered Youtube Summarizer, Sports League Platform, Social Media Emoji Posting Platform, and Poker Game
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=deez-book\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=sports-league-ui\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+
 
 - ❤️ I enjoy working with all types of frameworks, and pushing the limits
 
@@ -115,36 +119,3 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 <a href="https://github.com/mino9421">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mino9421&rank_icon=github&theme=radical" />
 </a>
-
-<hr>
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=deez-book\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=sports-league-ui\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-
-
-
-<!-- ###### Other Tools/Skills:
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=elasticsearch,kafka,rabbitmq,cmake,webassembly,yarn,npm,bun,tensorflow,pytorch" />
-  </a>
-</p> -->
-
-
-
-
-    
-<!--
-**mino9421/mino9421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
