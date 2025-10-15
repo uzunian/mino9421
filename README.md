@@ -5,22 +5,6 @@
 I ❤️ creating extraordinary web applications and experiences, I enjoy both frontend and backend web development.
 Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 
-
-# 💭About me
-
-- 💼 Senior Full Stack Engineer & Data Scientist
-
-- 📈 Built AI Powered Youtube Summarizer, Sports League Platform, Social Media Emoji Posting Platform, and Poker Game
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=deez-book\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=sports-league-ui\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=mino9421\&repo=poker-vue\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-
-
-- ❤️ I enjoy working with all types of frameworks, and pushing the limits
-
-- 💬 Ask me about anything [here](https://github.com/mino9421/mino9421/issues)
-
 <hr>
 
 # Skill
@@ -115,8 +99,8 @@ Learn more about me from my [portfolio website](https://armenlevon.com) 😊
 <hr>
 
 <a href="https://github.com/mino9421">
-  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mino9421&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&&card_width=320" />
+  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzunian&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&&card_width=320" />
 </a>
 <a href="https://github.com/mino9421">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mino9421&rank_icon=github&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=uzunian&rank_icon=github&theme=radical" />
 </a>
